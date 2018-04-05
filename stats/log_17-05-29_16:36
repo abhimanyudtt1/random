@@ -1,0 +1,84 @@
+collector stats instance-id 200 adaptor-stats netflow average-bin-size
+0
+collector stats instance-id 200 adaptor-stats netflow dropped-flow-invalid-field-count
+0
+collector stats instance-id 200 adaptor-stats netflow dropped-future-binning-flow
+0
+collector stats instance-id 200 adaptor-stats netflow max-flow
+30050
+collector stats instance-id 200 adaptor-stats netflow total-flow
+52664
+collector stats instance-id 200 adaptor-stats netflow average-flow-rate
+10710
+collector stats instance-id 200 adaptor-stats netflow dropped-flow-invalid-field-format
+0
+collector stats instance-id 200 adaptor-stats netflow dropped-header
+0
+collector stats instance-id 200 adaptor-stats netflow num-files-dropped
+0
+collector stats instance-id 200 adaptor-stats netflow dropped-binning-flow
+0
+collector stats instance-id 200 adaptor-stats netflow dropped-flow-invalid-field-value
+0
+collector stats instance-id 200 adaptor-stats netflow expired-data-flow
+0
+collector stats instance-id 200 adaptor-stats netflow num-files-processed
+0
+collector stats instance-id 200 adaptor-stats netflow dropped-expired-binning-flow
+0
+collector stats instance-id 200 adaptor-stats netflow dropped-flow-length-mismatch
+1
+collector stats instance-id 200 adaptor-stats netflow last-freezed-bin
+1495778400
+collector stats instance-id 200 adaptor-stats netflow num-files-with-errors
+0
+collector stats instance-id 200 adaptor-stats netflow dropped-flow
+3112
+collector stats instance-id 200 adaptor-stats netflow dropped-flow-missing-header
+3111
+collector stats instance-id 200 adaptor-stats netflow last-freezed-bin-size
+0
+collector stats instance-id 200 adaptor-stats netflow prorated-flow
+2412
+collector stats instance-id 200 adaptor-stats netflowV10 average-bin-size
+0
+collector stats instance-id 200 adaptor-stats netflowV10 dropped-flow-invalid-field-count
+0
+collector stats instance-id 200 adaptor-stats netflowV10 dropped-future-binning-flow
+0
+collector stats instance-id 200 adaptor-stats netflowV10 max-flow
+7528
+collector stats instance-id 200 adaptor-stats netflowV10 total-flow
+21207
+collector stats instance-id 200 adaptor-stats netflowV10 average-flow-rate
+4184
+collector stats instance-id 200 adaptor-stats netflowV10 dropped-flow-invalid-field-format
+0
+collector stats instance-id 200 adaptor-stats netflowV10 dropped-header
+0
+collector stats instance-id 200 adaptor-stats netflowV10 num-files-dropped
+0
+collector stats instance-id 200 adaptor-stats netflowV10 dropped-binning-flow
+0
+collector stats instance-id 200 adaptor-stats netflowV10 dropped-flow-invalid-field-value
+0
+collector stats instance-id 200 adaptor-stats netflowV10 expired-data-flow
+0
+collector stats instance-id 200 adaptor-stats netflowV10 num-files-processed
+0
+collector stats instance-id 200 adaptor-stats netflowV10 dropped-expired-binning-flow
+0
+collector stats instance-id 200 adaptor-stats netflowV10 dropped-flow-length-mismatch
+0
+collector stats instance-id 200 adaptor-stats netflowV10 last-freezed-bin
+1495778400
+collector stats instance-id 200 adaptor-stats netflowV10 num-files-with-errors
+0
+collector stats instance-id 200 adaptor-stats netflowV10 dropped-flow
+15534
+collector stats instance-id 200 adaptor-stats netflowV10 dropped-flow-missing-header
+15534
+collector stats instance-id 200 adaptor-stats netflowV10 last-freezed-bin-size
+0
+collector stats instance-id 200 adaptor-stats netflowV10 prorated-flow
+66
